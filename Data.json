@@ -1,0 +1,251 @@
+[
+    {
+        "creators" : [
+            
+            {
+                "name" : "Stinglin",
+                "social" : "https://www.instagram.com/stinglin_2k_man/",
+                "role" : "Designer",
+                "profileImg" : "https://stinglinprivate.github.io/wallpot-data/creators/stinglin"
+
+            }
+        ],
+
+        "wallpapers" : [
+            {
+                "title": "Purple scenary",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/30.jpg",
+                "free": true,
+                "primary": "purple"
+            },
+            {
+                "title": "I love books",
+                "category": "Minimal",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/29.jpg",
+                "free": true,
+                "primary": "grey"
+            },
+            {
+                "title": "Pixel tree",
+                "category": "Minimal",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/28.jpg",
+                "free": true,
+                "primary": "green"
+            },
+            {
+                "title": "Pattern orange",
+                "category": "Abstracts",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/27.jpg",
+                "free": true,
+                "primary": "orange"
+            },
+            {
+                "title": "Pattern Black",
+                "category": "Abstracts",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/26.jpg",
+                "free": true,
+                "primary": "black"
+            },
+            {
+                "title": "Scenary",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/25.jpg",
+                "free": true,
+                "primary": "blue"
+            },
+            {
+                "title": "Reason",
+                "category": "Quotes",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/24.jpg",
+                "free": true,
+                "primary": "green"
+            },
+            {
+                "title": "Do it",
+                "category": "Quotes",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/23.jpg",
+                "free": true,
+                "primary": "black"
+            },
+            {
+                "title": "Simple home",
+                "category": "Minimal",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/22.jpg",
+                "free": true,
+                "primary": "blue"
+            },
+            {
+                "title": "Little plant",
+                "category": "Minimal",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/21.jpg",
+                "free": true,
+                "primary": "orange"
+            },
+            {
+                "title": "Ever green",
+                "category": "Minimal",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/20.jpg",
+                "free": true,
+                "primary": "green"
+            },
+            {
+                "title": "Light green",
+                "category": "Plain",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/1.jpg",
+                "free": true,
+                "primary": "green"
+            },
+            {
+                "title": "Light coral color",
+                "category": "Plain",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/2.jpg",
+                "free": true,
+                "primary": "orange"
+            },
+            {
+                "title": "Sexy Red",
+                "category": "Plain",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/3.jpg",
+                "free": true,
+                "primary": "red"
+            },
+            {
+                "title": "Dark green",
+                "category": "Plain",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/4.jpg",
+                "free": true,
+                "primary": "green"
+            },
+            {
+                "title": "Beautiful purple",
+                "category": "Plain",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/5.jpg",
+                "free": true,
+                "primary": "purple"
+            },
+            {
+                "title": "Pale yellow",
+                "category": "Plain",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/6.jpg",
+                "free": true,
+                "primary": "yellow"
+            },
+            {
+                "title": "Grey Winter",
+                "category": "Moody",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/7.jpg",
+                "free": true,
+                "primary": "grey"
+            },
+            {
+                "title": "Eye cooling winter",
+                "category": "Moody",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/8.jpg",
+                "free": true,
+                "primary": "blue"
+            },
+            {
+                "title": "Warm winter",
+                "category": "Moody",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/9.jpg",
+                "free": true,
+                "primary": "orange"
+            },
+            {
+                "title": "Beautiful blue moon",
+                "category": "Amoled",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/10.jpg",
+                "free": true,
+                "primary": "blue"
+            },
+            {
+                "title": "Grey home",
+                "category": "Moody",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/11.jpg",
+                "free": true,
+                "primary": "grey"
+            },
+            {
+                "title": "Red sun",
+                "category": "Amoled",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/12.jpg",
+                "free": true,
+                "primary": "red"
+            },
+            {
+                "title": "Chemicals",
+                "category": "Minimal",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/13.jpg",
+                "free": true,
+                "primary": "red"
+            },
+            {
+                "title": "Blue moon",
+                "category": "Amoled",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/14.jpg",
+                "free": true,
+                "primary": "blue"
+            },
+            {
+                "title": "Carrot",
+                "category": "Funny",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/15.jpg",
+                "free": true,
+                "primary": "orange"
+            },
+            {
+                "title": "Juice",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/16.jpg",
+                "free": true,
+                "primary": "yellow"
+            },
+            {
+                "title": "Chemical tube",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/17.jpg",
+                "free": true,
+                "primary": "yellow"
+            },
+            {
+                "title": "Pinky",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpot-data/18.jpg",
+                "free": true,
+                "primary": "white"
+            }
+        ]
+    }
+    
+    
+]
