@@ -13,6 +13,70 @@
 
         "wallpapers" : [
             {
+                "title": "Red waves",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpotdata/38.png",
+                "free": true,
+                "primary": "red"
+            },
+            {
+                "title": "Orange door",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpotdata/37.png",
+                "free": true,
+                "primary": "orange"
+            },
+            {
+                "title": "Green door",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpotdata/36.png",
+                "free": true,
+                "primary": "green"
+            },
+            {
+                "title": "Chubby ghost",
+                "category": "Quotes",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpotdata/35.png",
+                "free": true,
+                "primary": "red"
+            },
+            {
+                "title": "White nuts",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpotdata/34.png",
+                "free": true,
+                "primary": "yellow"
+            },
+            {
+                "title": "Green field",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpotdata/33.png",
+                "free": true,
+                "primary": "green"
+            },
+            {
+                "title": "Warm desert",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpotdata/32.png",
+                "free": true,
+                "primary": "orange"
+            },
+            {
+                "title": "Banana tree",
+                "category": "Illustration",
+                "creator": "Stinglin",
+                "url": "https://stinglinprivate.github.io/wallpotdata/31.png",
+                "free": true,
+                "primary": "green"
+            },
+            {
                 "title": "Purple scenary",
                 "category": "Illustration",
                 "creator": "Stinglin",
